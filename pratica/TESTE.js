@@ -1,4 +1,4 @@
-let cidades = ["Barcelona", "Ibiza", "Málaga", "Madrid", "Sevilha"]
+let cidades = ["Barcelona", "Ibiza", "Málaga", "Madrid"]
 
 function qualCidade(primeira, segunda, terceira, quarta, quinta){
     console.log(`Qual a primiera cidade: ${primeira}`)
